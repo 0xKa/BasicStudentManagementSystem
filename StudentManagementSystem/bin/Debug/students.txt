@@ -1,0 +1,5 @@
+q1,reda,20,CS
+q2,khalid,21,CS
+q3,mohammad,22,CE
+q4,Ahmed,20,CE
+q5,fahid,3,443

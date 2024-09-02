@@ -1,0 +1,10 @@
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form1.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
